@@ -3,10 +3,8 @@
 > End-to-end Data Analytics & Business Intelligence project using official election datasets, Python, MySQL, and Power BI to build neutral, evidence-based comparative analysis.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codernav01/Election-Intelligence-Analytics/main/election-data-strategy.svg" alt="Election Intelligence Analytics Data Strategy" width="100%">
+  <img src="assets/election-data-strategy.jpg" alt="Election Intelligence Analytics Data Strategy" width="100%">
 </p>
-
-[Open the data-strategy visual directly](https://github.com/codernav01/Election-Intelligence-Analytics/blob/main/election-data-strategy.svg)
 
 ## 📌 Project Overview
 
@@ -159,9 +157,8 @@ Election-Intelligence-Analytics/
 ├── e1.csv
 ├── e2.xlsx
 ├── e3.xlsx
-├── election-data-strategy.svg
 └── assets/
-    └── election-data-strategy.svg
+    └── election-data-strategy.jpg
 ```
 
 ---
