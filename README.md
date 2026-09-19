@@ -2,9 +2,18 @@
 
 > End-to-end Data Analytics & Business Intelligence project using official election datasets, Python, MySQL, and Power BI to build neutral, evidence-based comparative analysis.
 
-<p align="center">
-  <img src="assets/election-data-strategy.jpg" alt="Election Intelligence Analytics Data Strategy" width="100%">
-</p>
+## Portfolio Snapshot
+
+| Evidence | Project coverage |
+|---|---|
+| **Data** | 3 election / constituency datasets |
+| **Scale** | 8,490+ candidate-level records across 234 constituencies |
+| **Python** | Cleaning, validation, feature engineering, EDA and research-question analysis |
+| **SQL** | Integrity checks, joins, CTEs, window functions and reusable analytical views |
+| **Power BI** | Data modelling, KPI analysis and interactive dashboard workflow |
+| **Reporting** | Geographic, constituency-transition and vote-share analysis |
+
+**[View the Final Executive Report](./Final%20Executive%20Report%20Of%20Election%20Intelligence%20Analytics.pdf)**
 
 ## 📌 Project Overview
 
@@ -157,8 +166,7 @@ Election-Intelligence-Analytics/
 ├── e1.csv
 ├── e2.xlsx
 ├── e3.xlsx
-└── assets/
-    └── election-data-strategy.jpg
+
 ```
 
 ---
