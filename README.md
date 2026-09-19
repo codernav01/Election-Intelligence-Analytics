@@ -13,7 +13,7 @@
 | **Power BI** | Data modelling, KPI analysis and interactive dashboard workflow |
 | **Reporting** | Geographic, constituency-transition and vote-share analysis |
 
-**[View the Final Executive Report](./Final%20Executive%20Report%20Of%20Election%20Intelligence%20Analytics.pdf)**
+**[View the Final Executive Report](./reports/election_intelligence_executive_report.pdf)**
 
 ## 📌 Project Overview
 
@@ -160,9 +160,11 @@ Focus:
 ```text
 Election-Intelligence-Analytics/
 ├── README.md
-├── Election Intelligence Analytics.ipynb
-├── Election Intelligence Analytics.sql
-├── Final Executive Report Of Election Intelligence Analytics.pdf
+├── election_intelligence_analysis.ipynb
+├── sql/
+│   └── election_intelligence_analytics.sql
+├── reports/
+│   └── election_intelligence_executive_report.pdf
 ├── e1.csv
 ├── e2.xlsx
 ├── e3.xlsx
