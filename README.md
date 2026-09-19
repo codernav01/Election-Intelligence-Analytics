@@ -46,6 +46,9 @@ The project works across:
 
 ## 📂 Datasets Used
 
+**Provenance note:** This repository analyzes the three election/reference files supplied with the project. The current repository documents the files used for analysis; it does not independently certify the original publisher or licensing of those inputs.
+
+
 | Dataset | Description | Purpose |
 |---|---|---|
 | **e1.csv** | 2021 Tamil Nadu Assembly Election Results | Historical comparison |
